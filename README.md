@@ -1,16 +1,17 @@
-# Hi there 👋, I'm Ayush
+## Ayush Das · DevTools & Web tools
+> I build CLI tools and web templates that improve developer experience and catch errors early.
 
-I'm a developer passionate about building tools, games, and templates.
+### What I ship
+- **[envcheck](https://github.com/ayushdad609-code/envcheck)** — Validates .env files against a typed schema before your app boots.
+- **[dev-terminal-portfolio](https://github.com/ayushdad609-code/dev-terminal-portfolio)** — A customizable, interactive terminal-style portfolio template.
+- **[Guardian-Gate](https://github.com/ayushdad609-code/Guardian-Gate)** — Runtime safety and verification layer for AI agents.
+- *More at [github.com/ayushdad609-code?tab=repositories](https://github.com/ayushdad609-code?tab=repositories)*
 
-## 🛠️ Tech Stack & Skills
-- **Languages:** Python, TypeScript, JavaScript
-- **Frameworks/Tools:** React, Vite, Node.js
+### Current focus
+Building `envcheck` to make environment variable validation foolproof before production deployments.
 
-## 🚀 Highlighted Projects
-- 💻 **[dev-terminal-portfolio](https://github.com/ayushdad609-code/dev-terminal-portfolio):** A highly customizable, interactive, and lightweight terminal-style portfolio template.
-- 🛡️ **[Guardian-Gate](https://github.com/ayushdad609-code/Guardian-Gate):** Runtime safety and verification layer for AI agents.
-- 🔥 **[fire-ranger](https://github.com/ayushdad609-code/fire-ranger):** A fast-paced 2D action-survival rescue game concept.
+### Tech I reach for
+`TypeScript` · `Python` · `JavaScript` · `Node.js` · `React`
 
-## 📈 GitHub Stats
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushdad609-code&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdad609-code&layout=compact&theme=radical)
+---
+<sub>📬 https://github.com/ayushdad609-code</sub>
